@@ -1,9 +1,9 @@
 # Класс — программы учителя и ученика
 
-**Пилотная версия 0.3.1 для Windows 10/11.**
+**Пилотная версия 0.3.2 для Windows 10/11.**
 
-- [Скачать программу учителя](https://github.com/kinddevs2024/classroom-control-downloads/releases/latest/download/Classroom-Teacher-0.3.1.zip)
-- [Скачать программу ученика](https://github.com/kinddevs2024/classroom-control-downloads/releases/latest/download/Classroom-Student-0.3.1.zip)
+- [Скачать программу учителя](https://github.com/kinddevs2024/classroom-control-downloads/releases/latest/download/Classroom-Teacher-0.3.2.zip)
+- [Скачать программу ученика](https://github.com/kinddevs2024/classroom-control-downloads/releases/latest/download/Classroom-Student-0.3.2.zip)
 - [Все выпуски и контрольные суммы](https://github.com/kinddevs2024/classroom-control-downloads/releases)
 
 ## Начало работы
